@@ -1,0 +1,3 @@
+#+title: Implementing VPT2
+
+Inspired by the paper "[[https://pubs.acs.org/doi/abs/10.1021/acs.jpca.0c09526][How to VPT2]]"
