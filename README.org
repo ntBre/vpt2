@@ -1,7 +1,7 @@
 #+title: Implementing VPT2
 
 Inspired by the paper "[[https://pubs.acs.org/doi/abs/10.1021/acs.jpca.0c09526][How to VPT2]]" with some help from "[[https://www.amazon.com/Molecular-Vibrations-Infrared-Vibrational-Chemistry/dp/048663941X][Molecular
-Vibrations"]]
+Vibrations"]] and the [[https://github.com/CrawfordGroup/ProgrammingProjects][Crawford Programming Projects]]
 
 * TODOs
   - [ ] see [[pdf:/home/brent/Library/spectro.pdf:43][spectro manual]] about normal coordinates
